@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/LGMVIP-Web-Task-2/static/css/main.1efa89f3.css",
-    "main.js": "/LGMVIP-Web-Task-2/static/js/main.159cd7a1.js",
+    "main.css": "/LGMVIP-Web-Task-2/static/css/main.512d2778.css",
+    "main.js": "/LGMVIP-Web-Task-2/static/js/main.5e21c762.js",
     "index.html": "/LGMVIP-Web-Task-2/index.html",
-    "main.1efa89f3.css.map": "/LGMVIP-Web-Task-2/static/css/main.1efa89f3.css.map",
-    "main.159cd7a1.js.map": "/LGMVIP-Web-Task-2/static/js/main.159cd7a1.js.map"
+    "main.512d2778.css.map": "/LGMVIP-Web-Task-2/static/css/main.512d2778.css.map",
+    "main.5e21c762.js.map": "/LGMVIP-Web-Task-2/static/js/main.5e21c762.js.map"
   },
   "entrypoints": [
-    "static/css/main.1efa89f3.css",
-    "static/js/main.159cd7a1.js"
+    "static/css/main.512d2778.css",
+    "static/js/main.5e21c762.js"
   ]
 }
