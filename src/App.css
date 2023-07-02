@@ -75,3 +75,7 @@
     gap: 2rem;
     padding: 2rem;
 }
+
+.loader{
+    margin: 10vh;
+}
